@@ -1,0 +1,22 @@
+{
+  "name": "rhuave-dark",
+  "displayName": "Rhuave Dark",
+  "description": "Rhuave Dark Theme",
+  "version": "0.0.1",
+  "publisher": "Rhuave",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rhuave Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rhuave Dark-color-theme.json"
+      }
+    ]
+  }
+}
