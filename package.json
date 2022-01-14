@@ -4,6 +4,10 @@
   "description": "Rhuave Dark Theme",
   "version": "0.0.1",
   "publisher": "Rhuave",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elenamarinaki/rhuave-dark"
+  },
   "engines": {
     "vscode": "^1.63.0"
   },
